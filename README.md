@@ -1,5 +1,5 @@
 # infography-scilab
-Solar-earth motion in non orthonormal landmark
+Solar-earth motion in non orthonormal landmark stellar basis
 
 Aim : architecture illumination so just motion during 1 year, that is : 
 
